@@ -8,3 +8,6 @@ Die ist die eine Beschreibung des Characters blablabla
 * Eigenschaft1
 * Eigenschaft2
 * Eigenschaft3
+
+So schreibt man ein Zitat:
+> Zitat blablabla
